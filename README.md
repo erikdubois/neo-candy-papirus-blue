@@ -12,7 +12,14 @@ A Papirus folder colour for the [neo-candy-icons](https://github.com/erikdubois)
 
 ## Installation (Arch / Kiro — nemesis_repo)
 
-```
+```bash
+# Everything — the whole Neo Candy collection (base + all variants)
+sudo pacman -S neo-candy-icons-meta
+
+# The Neo Candy Papirus family (base + all Papirus colour variants)
+sudo pacman -S neo-candy-papirus-meta
+
+# Only this variant
 sudo pacman -S neo-candy-papirus-blue-icons-git
 ```
 
