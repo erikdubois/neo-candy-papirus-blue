@@ -8,7 +8,7 @@
 
 ---
 
-A colour variant of the [neo-candy-icons](https://github.com/erikdubois/neo-candy-icons) theme. Ships only the **neo-candy-papirus-blue** folder (places) icons and inherits the base **neo-candy-icons** set, so `neo-candy-icons-git` is required.
+A Papirus folder colour for the [neo-candy-icons](https://github.com/erikdubois) icon theme. Ships only the **neo-candy-papirus-blue** folder (places) icons in the **blue** colour and inherits the base set, so `neo-candy-icons-git` is required. Folders sourced from [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
 ## Installation (Arch / Kiro — nemesis_repo)
 
@@ -18,4 +18,4 @@ sudo pacman -S neo-candy-papirus-blue-icons-git
 
 ## License
 
-[LICENSE](./LICENSE) — same as the matching Surfn folder set.
+[LICENSE](./LICENSE) — GPL-3.0, following the Papirus upstream.
